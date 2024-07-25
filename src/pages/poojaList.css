@@ -1,0 +1,14 @@
+.poojalist_container {
+  padding: 2rem;
+}
+
+.title {
+  text-align: center;
+}
+
+.poojaCards {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-around;
+  gap: 0.5rem;
+}
